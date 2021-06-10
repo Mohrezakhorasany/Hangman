@@ -1,0 +1,20 @@
+application
+bit
+buffer
+byte
+E-mail
+floppy disk
+hard disk
+hardware
+input
+keyboard
+memory
+modem
+operating system
+output
+peripheral
+program
+RAM
+screen
+software
+WYSIWYG
